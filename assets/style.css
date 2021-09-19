@@ -5,11 +5,13 @@
    text-decoration: none;
    font-style: lato;
 }
-
+body {
+    background-color: antiquewhite
+}
 
 
 header {
-    background-color: whitesmoke;
+    background-color: aquamarine;
     text-align: center;
     font-size: 35px;
     margin: 0;
