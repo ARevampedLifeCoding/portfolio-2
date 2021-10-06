@@ -1,5 +1,13 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
 h1{
     font-size:50px;
+}
+
+body {
+    background-color:antiquewhite;
 }
 
 header {
@@ -8,7 +16,11 @@ header {
 img {
     display: block;
     max-width: 100%;
-    height: auto;
+    height: 200px;
+    width:250px;
   }
 
+  .footer {
+      background-color:rgb(95,158,160,0.8);
+  }
   
