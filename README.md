@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/License-MIT-brightgreen)
     
 This is an itroduction to me. I have highlighted a few of the projects that I have created and belive stand out the most.
-   
+   <img title="About me website" alt="Profile website" src="./img/website.png">
 ## Table of Contents
 * [Installation Guide](#installation)
 * [Instructions](#instructions)
